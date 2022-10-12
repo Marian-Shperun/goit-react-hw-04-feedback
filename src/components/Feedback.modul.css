@@ -1,0 +1,9 @@
+section{
+  margin-left: 20px;
+}
+button:first-letter{
+  text-transform: uppercase;
+}
+button:not(:last-child){
+  margin-right: 15px;
+}

@@ -1,9 +1,13 @@
-section{
+section {
   margin-left: 20px;
 }
-button:first-letter{
+button:first-letter {
   text-transform: uppercase;
 }
-button:not(:last-child){
+button:not(:last-child) {
   margin-right: 15px;
+}
+
+.active {
+  background-color: red;
 }
